@@ -9,6 +9,12 @@ hello 1001
 hello 1003
 
 
+<<<<<<< HEAD
 
 whq
 
+=======
+hello 1004
+>>>>>>> feature1
+
+conflict txt
